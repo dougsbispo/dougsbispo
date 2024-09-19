@@ -5,22 +5,19 @@
 <h4>Curiositie's about me </h4>
 <i>gym, games, coffee & tech's.</i>
 
-<h2 align="left">Tech's that I usually use 👨🏽‍💻</h2>
 <div align="left">
+  <h2>Tech's that I usually use 👨🏽‍💻</h2>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
 </div>
 
-<h2 align="left">Talk to me! 🚀</h2>
-
 <div align="left">
+  <h2>Talk to me! 🚀</h2>
   <a href="https://www.linkedin.com/in/dougsbispo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
   <a href="dougsb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/></a>
 </div>
 
 <p align="center">“Go ahead and take that risk”</p>
