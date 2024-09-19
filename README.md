@@ -6,6 +6,10 @@
 
 ###
 
+<h4>Curiositie's about me </h4>
+
+###
+
 <h3 align="left">Tech's that I usually use 👨🏽‍💻</h3>
 
 ###
