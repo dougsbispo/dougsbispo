@@ -5,7 +5,7 @@
 <h4>Curiositie's about me </h4>
 <i>gym, games, coffee & tech's.</i>
 
-<h3 align="left">Tech's that I usually use 👨🏽‍💻</h3>
+<h2 align="left">Tech's that I usually use 👨🏽‍💻</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
-<h3 align="left">Talk to me! 🚀</h3>
+<h2 align="left">Talk to me! 🚀</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/dougsbispo/" target="_blank">
