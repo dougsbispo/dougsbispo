@@ -22,7 +22,4 @@
 
 ###
 
-<p align="center">“Go ahead and take that risk”</p>
-<p align="center"><i>Bill Gates</i></p>
-
 
