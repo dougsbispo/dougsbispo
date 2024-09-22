@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
 </div>
 
+<h4>About me </h4>
+<p>games, gym, vfx & tech's! </p>
+
 <div align="left">
   <h2>Talk to me! 🚀</h2>
   <a href="https://www.linkedin.com/in/dougsbispo/" target="_blank">
