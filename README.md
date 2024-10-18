@@ -1,6 +1,6 @@
 <h2 align="left">What's up, guys. I'm Doug, a Web Developer</h2>
 
-<p align="left">🌍 I started my journey in 2022, when some friends started studying and invited me to join. I've always liked the tech world and I'm very curious about new and challenging things. When I discovered that I could do unimaginable things with this, it sparked the interest of working in this area. I'm always open to collabs and projects.</p>
+<p align="left">🌍 I started my journey in 2023, when some friends started studying and invited me to join. I've always liked the tech world and I'm very curious about new and challenging things. When I discovered that I could do unimaginable things with this, it sparked the interest of working in this area. I'm always open to collabs and projects.</p>
 
 <div align="left">
   <h2>Tech's that I usually use 👨🏽‍💻</h2>
